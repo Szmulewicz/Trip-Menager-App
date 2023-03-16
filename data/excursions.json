@@ -1,0 +1,12 @@
+{
+  "excursions": [
+    {
+      "name": "drobin",
+      "description": "małe coś",
+      "adults": "120",
+      "children": "12",
+      "id": 3
+    }
+  ],
+  "orders": []
+}
